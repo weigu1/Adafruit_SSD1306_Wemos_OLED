@@ -15,8 +15,8 @@ Written by Limor Fried/Ladyada  for Adafruit Industries.
 BSD license, check license.txt for more information
 All text above, and the splash screen must be included in any redistribution
 *********************************************************************/
-#ifndef _Adafruit_SSD1306_H_
-#define _Adafruit_SSD1306_H_
+#ifndef _Adafruit_SSD1306_WEMOS_OLED_H_
+#define _Adafruit_SSD1306_WEMOS_OLED_H_
 
 #if ARDUINO >= 100
  #include "Arduino.h"
@@ -185,4 +185,4 @@ class Adafruit_SSD1306 : public Adafruit_GFX {
 
 };
 
-#endif /* _Adafruit_SSD1306_H_ */
+#endif /* _Adafruit_SSD1306_WEMOS_OLED_H_ */
